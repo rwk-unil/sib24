@@ -1,6 +1,6 @@
 # Optimize your code
 
-This section provides a few "easy-to-implement" tips and trick to optimize (Python) code.
+This section provides a few "easy-to-implement" tips and trick to optimize (Python) code. Note that the Notebooks are *read-only* create a local copy to edit them and play around.
 
 ## Activity O1 - Python and C optimization notebook
 
@@ -12,9 +12,9 @@ In order to measure what to optimize we need to *profile* our code or scripts.
 
 The Research Computing group of University of Leeds provides a Python notebook on profiling as part of their [high performance Python course](https://arc.leeds.ac.uk/training/courses/swd6/). It is available [here](https://colab.research.google.com/github/ARCTraining/swd6_hpp/blob/master/docs/01_profiling.ipynb)
 
-## Activity O3 - Python parallel programming
+## Activity O3 - Python HPC (high performance computing)
 
-To optimize the cluster / cloud node usage it is sometimes necessary to go to parallel programming. 
+This Google [Colab notebook](https://colab.research.google.com/drive/1AWTMJ9VKkWwJyf5Xc8wlHeAY5I3x5PYs?usp=sharing) goes through several possibilities to optimize a Python function, from optimized libraries such as Numpy, to parallel computations, and GPU.
 
 # Go back
 
