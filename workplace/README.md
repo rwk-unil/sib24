@@ -4,11 +4,13 @@ In order to optimize your workplace we first need to identify which devices cons
 
 You can follow along in this [Google Doc](https://docs.google.com/document/d/1ox6DnssMnVwRgWk5dinfNk1_ZelgBprLPDnB-krPo1M/edit?usp=sharing).
 
+To help you keep inventory you can print the forms available [here (PDF)](./FormDevices.pdf) and [here (docx)](./FormDevices.docx)
+
 In the office the devices may be very different from the lab or even wet lab. Some machines may need to stay on for critical reasons, but not all of them, can you create an inventory with power requirements and power hierarchy ? Are there machines that could be disconnected completely, machines that only need to be turned on when others machiens are on ?
 
 ## Disconnect devices from power when not in use
 
-Devices that are turned OFF or in Standby mode still can consume several watts of power, are there opportunities to improve this in your workspace or lab ?
+Devices that are turned OFF or in Standby mode still can consume several watts of power, are there opportunities to improve this in your workspace or lab ? There are several convenient ways to disconnect devices when not in use, some pointers are given in the [Google Doc](https://docs.google.com/document/d/1ox6DnssMnVwRgWk5dinfNk1_ZelgBprLPDnB-krPo1M/edit?usp=sharing).
 
 # Wake on Lan (WoL)
 
