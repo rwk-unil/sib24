@@ -1,35 +1,43 @@
 # Optimize your code
 
-This section provides a few "easy-to-implement" tips and trick to optimize code.
+This section provides a few "easy-to-implement" tips and trick to optimize (Python) code.
 
-## Python and C optimization notebook
+## Activity O1 - Python and C optimization notebook
 
 You can access and copy the following Google [Colab notebook](https://colab.research.google.com/drive/10F_LoZgLSoruaVk5jKzAQ6Mz2PyD3--a?usp=sharing) to follow along.
 
-### Python profiling
+## Activity O2 - Python profiling
 
 In order to measure what to optimize we need to *profile* our code or scripts.
 
 The Research Computing group of University of Leeds provides a Python notebook on profiling as part of their [high performance Python course](https://arc.leeds.ac.uk/training/courses/swd6/). It is available [here](https://colab.research.google.com/github/ARCTraining/swd6_hpp/blob/master/docs/01_profiling.ipynb)
 
+## Activity O3 - Python parallel programming
+
+To optimize the cluster / cloud node usage it is sometimes necessary to go to parallel programming. 
+
 # Go back
 
 [Go back to the main section](../README.md)
 
-## Bash pipelines
+# Bash pipelines
 
-A few tricks for your bash pipelines
+- **Bash pipelines tips and tricks**. Bash is often used to write scripts and pipelines in bioinformatics, so we'll show a few tricks that can help you in your research.
 
-**TODO**
+**WIP** This will be available in future versions of the workshop, don't hesitate to come and discuss if this is of interest to you.
 
-## Algorithmic complexity
+Methods include make good usage of multiple CPU core, e.g., use [pigz (parallel gzip)](https://zlib.net/pigz/) instead of gzip, use [GNU parallel](https://www.gnu.org/software/parallel/), monitor your CPU and RAM usage, plan your pipelines, optimize intra-tool data exchange (e.g., pipe uncompressed, binary data between your pipeline tools), etc.
+
+# Algorithmic complexity
 
 Example: Comparison of a few sorting algorithms : https://www.toptal.com/developers/sorting-algorithms
 
 Understand algorithms through visualizations : https://visualgo.net/en
 
-**TODO**
+**WIP** Exercises on this subject will be available in future versions of the workshop, don't hesitate to come and discuss if this is of interest to you.
 
-## Cluster and Cloud computing
+# Cluster and Cloud computing
 
-**TODO**
+**WIP** Cluster / Cloud computing access is not easily setup for a workshop, however if you are interested in methods to optimize your cluster / cloud computing usage, feel free to come and discuss !
+
+Topics include, when to store data vs when to recompute, how to parallelize tasks, how to split your workloads, inter-task dependencies, spot compute vs high priority and more.
