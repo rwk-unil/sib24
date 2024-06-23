@@ -1,6 +1,8 @@
 # Optimize your code
 
-This section provides a few "easy-to-implement" tips and trick to optimize (Python) code. Note that the Notebooks are *read-only* create a local copy to edit them and play around.
+This section provides a few "easy-to-implement" tips and trick to optimize (Python) code.
+
+**Note**: The Notebooks are *read-only* create a copy to edit them and play around.
 
 ## Activity O1 - Python and C optimization notebook
 
