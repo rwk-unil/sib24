@@ -16,6 +16,32 @@ To help you compute the power usage and estimate savings you can copy this [Goog
 
 Devices that are turned OFF or in Standby mode still can consume several watts of power, are there opportunities to improve this in your workspace or lab ? There are several convenient ways to disconnect devices when not in use, some pointers are given in the [Google Doc](https://docs.google.com/document/d/1ox6DnssMnVwRgWk5dinfNk1_ZelgBprLPDnB-krPo1M/edit?usp=sharing).
 
+# Activity W1 - Create your workplace inventory
+
+## Quests
+
+* Read the [Google Doc](https://docs.google.com/document/d/1ox6DnssMnVwRgWk5dinfNk1_ZelgBprLPDnB-krPo1M/edit?usp=sharing).
+* Fill the [inventory form](./FormDevices.pdf) (can be approximate, or fill blanks later)
+* Copy and fill / explore the example [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1f-pPH4afFR1CoBZoSZHbGGFKfHwLYhsH5GUhhnGVswQ/edit?usp=sharing)
+* Did you expect this much of a difference ?
+  <details>
+  <summary>Solution</summary>
+  I was not expecting my devices to draw so much energy, it is good that we added remote turn-ON of the PCs with wake-on-LAN, so that we can turn them on for remote work instead of leaving them ON 24/24h.
+
+  Also I found out that my screens had a 25W difference based on the brightness setting ! This is huge ! They are however older screens and newer screens draw much less energy. I compared my old EIZOs to my new 4k Samsung and the difference was almost two-fold.
+
+  Adding a primary-secondary plug really makes a difference too, and these devices are not that expensive (or else use a simple switched one). The savings (in KgCO2 and CHF) over the years can easily justify the acquisition of such a device.
+
+  Devices such as keyboards and mice do not really account to much, so we don't really have to take them into account, however keyboards with full LED lighting for each key can still draw a few watts and should not be left ON all the time (e.g., if the computer provides power over USB even when OFF).
+
+  My headphone amplifier takes a lot of energy as well, do I really need it ? No, but this is a luxury choice, don't blame yourself if you don't optimize everything to the max. For example, we sometimes take the car instead of the train for convenience, it happens. The important thing is to think about it and try to do the best without generating extra unnecessary stress or guilt.
+  </details>
+* What about your workplace or lab ?
+  <details>
+  <summary>Solution</summary>
+  You tell me, are there a lot of machines ? Do some of them need to be ON all the time (incubators, freezers, aquarium filtration), or are there a few that could be switched OFF outside of office hours ? Some devices may have a very long and complex turn-ON procedure and maybe calibration, so they are usually kept ON, but what about all other machines ?
+  </details>
+
 # Wake on Lan (WoL)
 
 WoL is an Ethernet standard that allows a computer to be turned on or awakened from sleep mode by a network message. WoL also works if the computer is turned off (the computer must have power).
