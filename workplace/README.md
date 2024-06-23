@@ -18,7 +18,7 @@ Devices that are turned OFF or in Standby mode still can consume several watts o
 
 # Activity W1 - Create your workplace inventory
 
-## Quests
+## Quests
 
 * Read the [Google Doc](https://docs.google.com/document/d/1ox6DnssMnVwRgWk5dinfNk1_ZelgBprLPDnB-krPo1M/edit?usp=sharing).
 * Fill the [inventory form](./FormDevices.pdf) (can be approximate, or fill blanks later)
