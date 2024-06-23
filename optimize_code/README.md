@@ -22,9 +22,9 @@ This Google [Colab notebook](https://colab.research.google.com/drive/1AWTMJ9VKkW
 
 # Bash pipelines
 
-- **Bash pipelines tips and tricks**. Bash is often used to write scripts and pipelines in bioinformatics, so we'll show a few tricks that can help you in your research.
+**WIP**: This will be available in future versions of the workshop, don't hesitate to come and discuss if this is of interest to you.
 
-**WIP** This will be available in future versions of the workshop, don't hesitate to come and discuss if this is of interest to you.
+**Bash pipelines tips and tricks**. Bash is often used to write scripts and pipelines in bioinformatics, so we'll show a few tricks that can help you in your research.
 
 Methods include make good usage of multiple CPU core, e.g., use [pigz (parallel gzip)](https://zlib.net/pigz/) instead of gzip, use [GNU parallel](https://www.gnu.org/software/parallel/), monitor your CPU and RAM usage, plan your pipelines, optimize intra-tool data exchange (e.g., pipe uncompressed, binary data between your pipeline tools), etc.
 
@@ -34,10 +34,10 @@ Example: Comparison of a few sorting algorithms : https://www.toptal.com/develop
 
 Understand algorithms through visualizations : https://visualgo.net/en
 
-**WIP** Exercises on this subject will be available in future versions of the workshop, don't hesitate to come and discuss if this is of interest to you.
+**WIP**: Exercises on this subject will be available in future versions of the workshop, don't hesitate to come and discuss if this is of interest to you.
 
 # Cluster and Cloud computing
 
-**WIP** Cluster / Cloud computing access is not easily setup for a workshop, however if you are interested in methods to optimize your cluster / cloud computing usage, feel free to come and discuss !
+**WIP**: Cluster / Cloud computing access is not easily setup for a workshop, however if you are interested in methods to optimize your cluster / cloud computing usage, feel free to come and discuss !
 
 Topics include, when to store data vs when to recompute, how to parallelize tasks, how to split your workloads, inter-task dependencies, spot compute vs high priority and more.
