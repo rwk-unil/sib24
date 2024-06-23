@@ -101,3 +101,7 @@ Visit the Green-Algorithms website https://www.green-algorithms.org and open the
   <summary>Solution</summary>
   We cannot simply multiply by 500/150, but it gives an estimate. The variant calling for the 500,000 dataset has much more variants roughly 1.2 trillion whereas the 150,119 has less than 600 million variants (cf. paper), and this also impacts runtime. We can probably guess that a 5-10x increase in energy and CO2 emissions is likely !
   </details>
+
+# Go back
+
+[Go back to the main section](../README.md)

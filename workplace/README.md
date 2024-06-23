@@ -62,3 +62,7 @@ This avoids having the PCs in the office or lab to be on all the time.
 
 - https://en.wikipedia.org/wiki/Wake-on-LAN
 - https://github.com/sameerdhoot/wolweb
+
+# Go back
+
+[Go back to the main section](../README.md)
