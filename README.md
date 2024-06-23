@@ -9,9 +9,11 @@ SIB Days 2024 Workshop : Towards sustainable science: Navigating environmental c
 
 # Workshop activities
 
-- [Follow me for the estimation activity](measure_estimate/README.md)
-- [Follow me for the workplace improvement activity](workplace/README.md)
-- [Follow me for the code optimization activity](optimize_code/README.md) (technical)
+- 💚 [Follow me for the estimation activity](measure_estimate/README.md)
+
+- 🔌 [Follow me for the workplace improvement activity](workplace/README.md)
+
+- 💻 [Follow me for the code optimization activity](optimize_code/README.md) (technical)
 
 # Do you want to share your experience, tips and tricks ?
 
