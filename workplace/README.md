@@ -22,7 +22,7 @@ Devices that are turned OFF or in Standby mode still can consume several watts o
 
 * Read the [Google Doc](https://docs.google.com/document/d/1ox6DnssMnVwRgWk5dinfNk1_ZelgBprLPDnB-krPo1M/edit?usp=sharing).
 * Fill the [inventory form](./FormDevices.pdf) (can be approximate, or fill blanks later)
-* Copy and fill / explore the example [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1f-pPH4afFR1CoBZoSZHbGGFKfHwLYhsH5GUhhnGVswQ/edit?usp=sharing)
+* Copy and fill / explore the example [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1f-pPH4afFR1CoBZoSZHbGGFKfHwLYhsH5GUhhnGVswQ/edit?usp=sharing) (the form is *read-only* create a copy to edit)
 * Did you expect this much of a difference ?
   <details>
   <summary>Solution</summary>
