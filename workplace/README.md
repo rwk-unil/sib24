@@ -42,6 +42,13 @@ Devices that are turned OFF or in Standby mode still can consume several watts o
   You tell me, are there a lot of machines ? Do some of them need to be ON all the time (incubators, freezers, aquarium filtration), or are there a few that could be switched OFF outside of office hours ? Some devices may have a very long and complex turn-ON procedure and maybe calibration, so they are usually kept ON, but what about all other machines ?
   </details>
 
+## References
+
+- [Home idle load: Devices wasting huge amounts of electricity when not in active use](https://www.nrdc.org/resources/home-idle-load-devices-wasting-huge-amounts-electricity-when-not-active-use)
+- [(PDF) Home idle load: Devices wasting huge amounts of electricity when not in active use](https://www.nrdc.org/sites/default/files/home-idle-load-IP.pdf)
+- [(PDF) Home idle load self-diagnosis and action guide](https://www.nrdc.org/sites/default/files/home-idle-load-action-guide.pdf)
+- [(PDF) Plug-in equipment efficiency: A key strategy to help achieve California's carbon reduction and clean energy goals](https://www.nrdc.org/sites/default/files/home-idle-load-plug-in-efficiency-IB.pdf)
+
 # Wake on Lan (WoL)
 
 WoL is an Ethernet standard that allows a computer to be turned on or awakened from sleep mode by a network message. WoL also works if the computer is turned off (the computer must have power).
